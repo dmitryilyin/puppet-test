@@ -1,0 +1,3 @@
+test { 'test' :
+  ensure => present,
+}
