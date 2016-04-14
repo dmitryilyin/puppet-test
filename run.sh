@@ -1,1 +1,1 @@
-puppet apply -vd --modulepath=. 1.pp
+puppet apply -vd --modulepath=modules 1.pp
